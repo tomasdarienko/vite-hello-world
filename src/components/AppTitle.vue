@@ -10,7 +10,9 @@ export default {
 <template lang="">
 
   <div>
-     <AppTitle />
+     <div>
+          la mia prima app con vite
+     </div>
   </div>
 
 
